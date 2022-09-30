@@ -71,21 +71,6 @@ body {
     margin: 0 auto;
 }
 
-@media only screen and (min-width: 600px) {
-
-    .Parent {
-        width: 70%;
-    }
-
-    #img1 {
-        height: 400px;
-    }
-
-    #img2 {
-        height: 400px;
-    }
-}
-
 .child1 {
     width: 50%;
     height: 200px;
